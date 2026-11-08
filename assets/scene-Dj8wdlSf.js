@@ -1,0 +1,1 @@
+export{t as buildInstalledScene}from"./scene-CjcT6s2s.js";
