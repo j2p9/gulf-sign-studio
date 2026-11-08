@@ -1,0 +1,5 @@
+{
+  "latinHeavy": { "file": "Transport-Heavy.ttf", "label": "Transport Heavy" },
+  "latinMedium": { "file": "Transport-Medium.ttf", "label": "Transport Medium" },
+  "arabic": { "file": "BoutrosAdvertisersNaskh-Bold.ttf", "label": "Boutros Advertisers Naskh" }
+}
